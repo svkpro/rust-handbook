@@ -1,0 +1,6 @@
+ 
+[package]
+name = "rust-handbook-macros"
+version = "0.1.0"
+authors = ["Vasili Solovei <gsvkpro@gmail.com>"]
+edition = "2018"
