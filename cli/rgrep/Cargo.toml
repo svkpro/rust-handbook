@@ -1,0 +1,17 @@
+[workspace]
+members = ["./"]
+
+[[bin]]
+name = "rgrep"
+path = "src/main.rs"
+
+[package]
+name = "rgrep"
+version = "0.1.0"
+authors = ["Vasili Solovei <vasilii.solovei@inturn.co>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2.10"
+
+
